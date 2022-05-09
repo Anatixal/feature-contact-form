@@ -1,7 +1,9 @@
 <?php
 
     $username = $_POST['data-username'];
-    $age = $_POST['data-age'];
+    $mail = $_POST['data-mail'];
+    $subject = $_POST['data-subject'];
+    $message = $_POST['data-message'];
 ?>
 
 <!DOCTYPE html>
